@@ -11,4 +11,4 @@ The data used for this project was gathered from Britta Bettendorf at kaggle.com
 I'm 100% open to any constructive feedback on the project. I would apprecciate it a lot too!
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
